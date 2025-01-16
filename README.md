@@ -4,5 +4,5 @@
 - 🌱 **Aprendendo:** Me aprofundando cada vez mais no mundo da Data Science e espero trazer novos projetos com maior frequência.
 
 ## Como me encontrar
-- 💼 [LinkedIn](linkedin.com/in/guilherme-pacheco-paredes-4540552a7)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-pacheco-paredes-4540552a7/)
 - 📧 [Email](guipparedes2001@gmail.com)
