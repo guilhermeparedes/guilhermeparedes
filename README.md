@@ -1,7 +1,3 @@
-# guilhermeparedes
-
-# Bem-vindo ao meu perfil! 👋
-
 ## Sobre mim
 - 🎓 **Formação:** Estudante de Bacharelado em Física pela USP.
 - 💻 **Interesses:** Meus interesses são em Machine Learning e Data Science.
