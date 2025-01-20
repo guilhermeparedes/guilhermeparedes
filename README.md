@@ -22,13 +22,13 @@ Bolsista de Iniciação Científica - CNPq: Realizei um estudo teórico com o ob
 
 📕 Disicplinas Relevantes Cursadas:
 
-- *Métodos Numéricos*: resolução de problemas numéricos por interpolação, resolução de sistemas lineares, integração numérica, solução de equações não lineares, métodos iterativos e otimização e métodos para solução de equações diferenciais em Python;
+- *Métodos Numéricos*: Resolvi de problemas numéricos por interpolação, sistemas lineares, integração numérica, solução de equações não lineares, métodos iterativos e otimização e métodos para solução de equações diferenciais em Python;
   
-- *Introdução a Computação para Ciências Exatas*: do introdutório ao intermediário em Python, da lógica de programação, introdução a algoritmos até uso de bibliotecas para análise de dados como numpy, pandas e matplotlib;
+- *Introdução a Computação para Ciências Exatas*: Do introdutório ao intermediário em Python, da lógica de programação, introdução a algoritmos até uso de bibliotecas para análise de dados como numpy, pandas e matplotlib;
   
-- *Mecânica Estatística e Fisica Eperimental (I - VI)*: fundamentos de estatística como distribuição de probabilidades, flutuações e grandes números, processos estocásticos, entropia e informação, e métodos numéricos, Monte Carlo, análise de erros, regressão, teste de hipóteses e métodos de correlação;
+- *Mecânica Estatística e Fisica Eperimental (I - VI)*: Fundamentos de estatística como distribuição de probabilidades, flutuações e grandes números, processos estocásticos, entropia e informação, e métodos numéricos, Monte Carlo, análise de erros, regressão, teste de hipóteses e métodos de correlação;
   
-- *Introdução à Cosmologia Física*: desenvolvi métodos computacionais para simulação e anáalise de modelos cosmológicos. Realizei cálculos de parametros cosmológicos, como espectros de potência e funcões de crescimento.
+- *Introdução à Cosmologia Física*: Desenvolvi métodos computacionais para simulação e anáalise de modelos cosmológicos. Realizei cálculos de parametros cosmológicos, como espectros de potência e funcões de crescimento.
 
   
 
