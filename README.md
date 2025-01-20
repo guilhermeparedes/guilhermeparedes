@@ -10,15 +10,15 @@ Apaixonado por resolver problemas e explorar novas formas de entender o mundo po
 
 🎓 **Formação**
 
-Bacharelado em Física (USP).
+Bacharelado em Física (USP).  
 
-
+  
 
 💼 **Experiência Profissional**
 
 Bolsista de Iniciação Científica - CNPq: Realizei um estudo teórico com o objetivo de otimizar as condições para um experimento envolvendo o acelerador Pelletron e o sistema RIBRAS. A pesquisa concentrou-se em cálculos de seções de choque e perdas de energia, buscando determinar os melhores parâmetros para configurar o sistema e os feixes de partículas, como a energia de entrada, ângulos de colisão e posicionamento dos detectores. Utilizei pacotes Linux e Python para simulação e análise de dados, desenvolvendo modelos computacionais que auxiliaram na definição das condições ideais para a realização do experimento, sem a execução prática do mesmo.
 
-
+  
 
 📕 Disicplinas Relevantes Cursadas:
 
@@ -30,7 +30,7 @@ Bolsista de Iniciação Científica - CNPq: Realizei um estudo teórico com o ob
   
 - *Introdução à Cosmologia Física*: desenvolvi métodos computacionais para simulação e anáalise de modelos cosmológicos. Realizei cálculos de parametros cosmológicos, como espectros de potência e funcões de crescimento.
 
-
+  
 
 🚀 **Minhas Áreas de Interesse**
 
@@ -39,15 +39,19 @@ Bolsista de Iniciação Científica - CNPq: Realizei um estudo teórico com o ob
 - Estatística;
 - Física Computacional.
 
-
+  
 
 *Linguagens*: Python, SQL e LATEX;
+
 *Machine Learning*: Scikit-learn, TensorFlow, PyTorch, Aprendizado Supervisionado e Aprendizado não Supervisionado;
+
 *Quantitative Tools*: NumPy, SciPy, pandas e statsmodels;
-*Data Visualization*: Matplotlib, Seaborn e Plotly;
+
+*Data Visualization*: Matplotlib e Seaborn;
+
 *Bases de Dados*: SQL;
 
-
+  
 
 📫 **Contato**
 
