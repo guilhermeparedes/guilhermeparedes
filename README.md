@@ -15,9 +15,10 @@ Bacharelado em Física (USP).
 
 Bolsista de Iniciação Científica - CNPq: Realizei um estudo teórico com o objetivo de otimizar as condições para um experimento envolvendo o acelerador Pelletron e o sistema RIBRAS. A pesquisa concentrou-se em cálculos de seções de choque e perdas de energia, buscando determinar os melhores parâmetros para configurar o sistema e os feixes de partículas, como a energia de entrada, ângulos de colisão e posicionamento dos detectores. Utilizei pacotes Linux e Python para simulação e análise de dados, desenvolvendo modelos computacionais que auxiliaram na definição das condições ideais para a realização do experimento, sem a execução prática do mesmo.
 
-Disicplinas Relevantes Cursadas:
 
-- *Métoos Numéricos*: resolução de problemas numéricos por interpolação, resolução de sistemas lineares, integração numérica, solução de equações não lineares, métodos iterativos e otimização e métodos para solução de equações diferenciais em Python;
+📕 Disicplinas Relevantes Cursadas:
+
+- *Métodos Numéricos*: resolução de problemas numéricos por interpolação, resolução de sistemas lineares, integração numérica, solução de equações não lineares, métodos iterativos e otimização e métodos para solução de equações diferenciais em Python;
   
 - *Introdução a Computação para Ciências Exatas*: do introdutório ao intermediário em Python, da lógica de programação, introdução a algoritmos até uso de bibliotecas para análise de dados como numpy, pandas e matplotlib;
   
@@ -32,6 +33,7 @@ Disicplinas Relevantes Cursadas:
 - Deep Learning;
 - Estatística;
 - Física Computacional.
+
 
 *Linguagens*: Python, SQL e LATEX;
 *Machine Learning*: Scikit-learn, TensorFlow, PyTorch, Aprendizado Supervisionado e Aprendizado não Supervisionado;
