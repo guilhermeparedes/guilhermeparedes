@@ -43,7 +43,7 @@ Bolsista de Iniciação Científica - CNPq: Realizei um estudo teórico com o ob
 
 *Linguagens*: Python, SQL e LATEX;
 
-*Machine Learning*: Scikit-learn, TensorFlow, PyTorch, Aprendizado Supervisionado e Aprendizado não Supervisionado;
+*Machine Learning*: Scikit-learn, TensorFlow, Aprendizado Supervisionado e Aprendizado não Supervisionado;
 
 *Quantitative Tools*: NumPy, SciPy, pandas e statsmodels;
 
