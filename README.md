@@ -4,7 +4,7 @@ Olá, sou a Guilherme!
 
 🔍 **Sobre mim**
 
-Apaixonado por resolver problemas e explorar novas formas de entender o mundo por meio da ciência. Meu interesse por Ciência de Dados surge do desejo de aplicar minhas habilidades analíticas e quantitativas em áreas que combinam tecnologia, estatística e programação. Estou em busca de oportunidades para aprender, crescer e contribuir com soluções criativas para desafios reais, unindo minha base em física à versatilidade da ciência de dados.
+Grande entusiasta por resolver problemas e explorar novas formas de entender o mundo por meio da ciência. Meu interesse por Ciência de Dados surge do desejo de aplicar minhas habilidades analíticas e quantitativas em áreas que combinam tecnologia, estatística e programação. Estou em busca de oportunidades para aprender, crescer e contribuir com soluções criativas para desafios reais, unindo minha base em física à versatilidade da ciência de dados.
 
 
 
