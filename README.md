@@ -16,7 +16,7 @@ Bacharelado em Física (USP).
 
 💼 **Experiência Profissional**
 
-Bolsista de Iniciação Científica - CNPq:
+*Bolsista de Iniciação Científica - CNPq*:
 
 Realizei um estudo teórico com o objetivo de otimizar as condições para um experimento envolvendo o acelerador Pelletron e o sistema RIBRAS. A pesquisa concentrou-se em cálculos de seções de choque e perdas de energia, buscando determinar os melhores parâmetros para configurar o sistema e os feixes de partículas, como a energia de entrada, ângulos de colisão e posicionamento dos detectores. Utilizei pacotes Linux e Python para simulação e análise de dados, desenvolvendo modelos computacionais que auxiliaram na definição das condições ideais para a realização do experimento, sem a execução prática do mesmo.
 
