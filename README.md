@@ -24,7 +24,7 @@ Realizei um estudo teórico com o objetivo de otimizar as condições para um ex
 
 📕 Disicplinas Relevantes Cursadas:
 
-- *Métodos Numéricos*: Resolvi de problemas numéricos por interpolação, sistemas lineares, integração numérica, solução de equações não lineares, métodos iterativos e otimização e métodos para solução de equações diferenciais em Python;
+- *Métodos Numéricos*: Resolvi problemas numéricos por interpolação, sistemas lineares, integração numérica, solução de equações não lineares, métodos iterativos e otimização e métodos para solução de equações diferenciais em Python;
   
 - *Introdução a Computação para Ciências Exatas*: Do introdutório ao intermediário em Python, da lógica de programação, introdução a algoritmos até uso de bibliotecas para análise de dados como numpy, pandas e matplotlib;
   
