@@ -11,7 +11,6 @@ Grande entusiasta por resolver problemas e explorar novas formas de entender o m
 🎓 **Formação**
 
 Bacharelado em Física (USP).  
-
   
 
 💼 **Experiência Profissional**
