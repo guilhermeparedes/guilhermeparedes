@@ -38,8 +38,7 @@ Realizei um estudo teórico com o objetivo de otimizar as condições para um ex
 - Machine Learning;
 - Deep Learning;
 - Estatística;
-- Física Computacional.
-
+- Ciência de Dados. 
   
 
 *Linguagens*: Python, SQL e LATEX;
