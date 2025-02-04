@@ -13,7 +13,7 @@ Grande entusiasta por resolver problemas e explorar novas formas de entender o m
 Bacharelado em Física (USP).  
   
 
-💼 **Experiência Profissional*
+💼 **Experiência Profissional**
 
 *Bolsista de Iniciação Científica - CNPq*:
 
