@@ -19,19 +19,6 @@ Bacharelado em Física (USP).
 
 Realizei um estudo teórico com o objetivo de otimizar as condições para um experimento envolvendo o acelerador Pelletron e o sistema RIBRAS. A pesquisa concentrou-se em cálculos de seções de choque e perdas de energia, buscando determinar os melhores parâmetros para configurar o sistema e os feixes de partículas, como a energia de entrada, ângulos de colisão e posicionamento dos detectores. Utilizei pacotes Linux e Python para simulação e análise de dados, desenvolvendo modelos computacionais que auxiliaram na definição das condições ideais para a realização do experimento, sem a execução prática do mesmo.
 
-  
-
-📕 Disicplinas Relevantes Cursadas:
-
-- *Métodos Numéricos*: Resolvi problemas numéricos por interpolação, sistemas lineares, integração numérica, solução de equações não lineares, métodos iterativos e otimização e métodos para solução de equações diferenciais em Python;
-  
-- *Introdução a Computação para Ciências Exatas*: Do introdutório ao intermediário em Python, da lógica de programação, introdução a algoritmos até uso de bibliotecas para análise de dados como numpy, pandas e matplotlib;
-  
-- *Mecânica Estatística e Fisica Eperimental (I - VI)*: Fundamentos de estatística como distribuição de probabilidades, flutuações e grandes números, processos estocásticos, entropia e informação, e métodos numéricos, Monte Carlo, análise de erros, regressão, teste de hipóteses e métodos de correlação;
-  
-- *Introdução à Cosmologia Física*: Desenvolvi métodos computacionais para simulação e anáalise de modelos cosmológicos. Realizei cálculos de parametros cosmológicos, como espectros de potência e funcões de crescimento.
-
-  
 
 🚀 **Minhas Áreas de Interesse**
 
@@ -43,7 +30,7 @@ Realizei um estudo teórico com o objetivo de otimizar as condições para um ex
 
 *Linguagens*: Python, SQL e LATEX;
 
-*Machine Learning*: Scikit-learn, TensorFlow, Aprendizado Supervisionado e Aprendizado não Supervisionado;
+*Machine Learning*: Scikit-learn e Aprendizado Supervisionado;
 
 *Quantitative Tools*: NumPy, SciPy, pandas e statsmodels;
 
