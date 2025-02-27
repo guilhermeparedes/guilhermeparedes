@@ -55,7 +55,7 @@ Realizei um estudo teórico com o objetivo de otimizar as condições para um ex
 
 📫 **Contato**
 
-💼 [LinkedIn](https://www.linkedin.com/in/guilherme-pacheco-paredes-4540552a7/)
+💼 [LinkedIn](https://www.linkedin.com/in/guilherme-paredes-4540552a7/)
 
 📧 [Email](guipparedes2001@gmail.com)
   
